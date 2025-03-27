@@ -27,14 +27,14 @@
             <a href="#about" class="btn-get-started">Comenzar a aprender</a>
             </div>
 
-            <div class="row gy-4 mt-5">
+            <!--div class="row gy-4 mt-5">
             <div class="col-md-6 col-lg-3" data-aos="zoom-out" data-aos-delay="100">
                 <div class="icon-box">
                 <div class="icon"><i class="bi bi-easel"></i></div>
                 <h4 class="title"><a href="">Lorem Ipsum</a></h4>
                 <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
                 </div>
-            </div><!--End Icon Box -->
+            </div>
 
             <div class="col-md-6 col-lg-3" data-aos="zoom-out" data-aos-delay="200">
                 <div class="icon-box">
@@ -42,7 +42,7 @@
                 <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
                 <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
                 </div>
-            </div><!--End Icon Box -->
+            </div>
 
             <div class="col-md-6 col-lg-3" data-aos="zoom-out" data-aos-delay="300">
                 <div class="icon-box">
@@ -50,7 +50,7 @@
                 <h4 class="title"><a href="">Magni Dolores</a></h4>
                 <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
                 </div>
-            </div><!--End Icon Box -->
+            </div>
 
             <div class="col-md-6 col-lg-3" data-aos="zoom-out" data-aos-delay="400">
                 <div class="icon-box">
@@ -58,9 +58,9 @@
                 <h4 class="title"><a href="">Nemo Enim</a></h4>
                 <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
                 </div>
-            </div><!--End Icon Box -->
-
             </div>
+
+            </div-->
         </div>
 
         </section><!-- /Hero Section -->
@@ -70,30 +70,33 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <h2>About Us<br></h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <h2>Disruptores endocrinos<br></h2>
+            <p>Efectos bioquímicos de los disruptores endocrinos artificiales en el metabolismo humano</p>
         </div><!-- End Section Title -->
 
         <div class="container">
 
             <div class="row gy-4">
 
-            <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-                <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
-                </p>
-                <ul>
-                <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check2-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo</span></li>
-                </ul>
+            
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                <p>Los disruptores endocrinos artificiales (DEA) son compuestos sintéticos que interfieren con el sistema endocrino, alterando la regulación hormonal y afectando el metabolismo humano.</p>
+                <p>Presentes en plásticos, cosméticos y pesticidas, estos disruptores, como el bisfenol A o los ftalatos, pueden modificar la acción de hormonas clave, desencadenando trastornos metabólicos como obesidad o diabetes. Su capacidad para perturbar las rutas bioquímicas que transforman nutrientes en energía los convierte en un riesgo notable para la salud.</p>
             </div>
 
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-                <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
-                <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+                <p>
+                El metabolismo humano, dependiente de hormonas como la insulina o las tiroideas, se ve afectado por los DEA a nivel molecular, causando desde resistencia a la insulina hasta estrés oxidativo. Esta página abordará puntos tales como:
+                </p>
+                <ul>
+                <li><i class="bi bi-check2-circle"></i> <span>Interferencia con receptores hormonales y su impacto en el metabolismo.</span></li>
+                <li><i class="bi bi-check2-circle"></i> <span>DAlteración de la función tiroidea y acumulación de lípidos.</span></li>
+                <li><i class="bi bi-check2-circle"></i> <span>Efectos en la señalización de insulina y riesgo de diabetes.</span></li>
+                </ul>
+
+                <a href="#" class="read-more"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
             </div>
+
 
             </div>
 
