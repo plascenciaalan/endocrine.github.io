@@ -23,6 +23,9 @@
     <!-- Main CSS File -->
     <link href="{{asset('assets/css/main.css')}}" rel="stylesheet">
 
+    <!-- Main CSS File -->
+    <link href="{{asset('assets/css/custom.css')}}" rel="stylesheet">
+
     <!-- =======================================================
     * Template Name: OnePage
     * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/

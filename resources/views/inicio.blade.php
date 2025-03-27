@@ -101,230 +101,8 @@
 
         </section><!-- /About Section -->
 
-        <!-- Stats Section -->
-        <section id="stats" class="stats section light-background">
-
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="row gy-4">
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
-                </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Projects</p>
-                </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Hours Of Support</p>
-                </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-md-6">
-                <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Workers</p>
-                </div>
-            </div><!-- End Stats Item -->
-
-            </div>
-
-        </div>
-
-        </section><!-- /Stats Section -->
-
-        <!-- About Alt Section -->
-        <section id="about-alt" class="about-alt section">
-
-        <div class="container">
-
-            <div class="row gy-4">
-            <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-                <img src="assets/img/about.jpg" class="img-fluid" alt="">
-                <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
-            </div>
-            <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-                <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
-                </p>
-                <ul>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
-                </ul>
-                <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-                </p>
-            </div>
-            </div>
-
-        </div>
-
-        </section><!-- /About Alt Section -->
-
-        <!-- Clients Section -->
-        <section id="clients" class="clients section light-background">
-
-        <div class="container" data-aos="fade-up">
-
-            <div class="row gy-4">
-
-            <div class="col-xl-2 col-md-3 col-6 client-logo">
-                <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-            </div><!-- End Client Item -->
-
-            <div class="col-xl-2 col-md-3 col-6 client-logo">
-                <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-            </div><!-- End Client Item -->
-
-            <div class="col-xl-2 col-md-3 col-6 client-logo">
-                <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-            </div><!-- End Client Item -->
-
-            <div class="col-xl-2 col-md-3 col-6 client-logo">
-                <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-            </div><!-- End Client Item -->
-
-            <div class="col-xl-2 col-md-3 col-6 client-logo">
-                <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-            </div><!-- End Client Item -->
-
-            <div class="col-xl-2 col-md-3 col-6 client-logo">
-                <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-            </div><!-- End Client Item -->
-
-            </div>
-
-        </div>
-
-        </section><!-- /Clients Section -->
-
-        <!-- Testimonials Section -->
-        <section id="testimonials" class="testimonials section">
-
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Testimonials</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-        </div><!-- End Section Title -->
-
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="swiper init-swiper" data-speed="600" data-delay="5000" data-breakpoints="{ &quot;320&quot;: { &quot;slidesPerView&quot;: 1, &quot;spaceBetween&quot;: 40 }, &quot;1200&quot;: { &quot;slidesPerView&quot;: 3, &quot;spaceBetween&quot;: 40 } }">
-            <script type="application/json" class="swiper-config">
-                {
-                "loop": true,
-                "speed": 600,
-                "autoplay": {
-                    "delay": 5000
-                },
-                "slidesPerView": "auto",
-                "pagination": {
-                    "el": ".swiper-pagination",
-                    "type": "bullets",
-                    "clickable": true
-                },
-                "breakpoints": {
-                    "320": {
-                    "slidesPerView": 1,
-                    "spaceBetween": 40
-                    },
-                    "1200": {
-                    "slidesPerView": 3,
-                    "spaceBetween": 20
-                    }
-                }
-                }
-            </script>
-            <div class="swiper-wrapper">
-
-                <div class="swiper-slide">
-                <div class="testimonial-item" "="">
-                <p>
-                <i class=" bi bi-quote quote-icon-left"></i>
-                    <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
-                    </p>
-                    <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>Saul Goodman</h3>
-                    <h4>Ceo &amp; Founder</h4>
-                </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                <div class="testimonial-item">
-                    <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
-                    </p>
-                    <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                    <h3>Sara Wilsson</h3>
-                    <h4>Designer</h4>
-                </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                <div class="testimonial-item">
-                    <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
-                    </p>
-                    <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                    <h3>Jena Karlis</h3>
-                    <h4>Store Owner</h4>
-                </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                <div class="testimonial-item">
-                    <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
-                    </p>
-                    <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                    <h3>Matt Brandon</h3>
-                    <h4>Freelancer</h4>
-                </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                <div class="testimonial-item">
-                    <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
-                    </p>
-                    <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                    <h3>John Larson</h3>
-                    <h4>Entrepreneur</h4>
-                </div>
-                </div><!-- End testimonial item -->
-
-            </div>
-            <div class="swiper-pagination"></div>
-            </div>
-
-        </div>
-
-        </section><!-- /Testimonials Section -->
-
         <!-- Services Section -->
-        <section id="services" class="services section light-background">
+        <section id="disruptores" class="services section light-background">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
@@ -436,141 +214,21 @@
         </section><!-- /Services Section -->
 
         <!-- Call To Action Section -->
-        <section id="call-to-action" class="call-to-action section accent-background">
+        <section id="game" class="call-to-action section accent-background">
 
         <div class="container">
             <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
             <div class="col-xl-10">
                 <div class="text-center">
-                <h3>Call To Action</h3>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <a class="cta-btn" href="#">Call To Action</a>
+                <h3>¡Aprende Jugando!</h3>
+                <p>¡Atrévete con un juego dinámico que te enseña mientras te diviertes! ¿Listo para el reto?</p>
+                <a class="cta-btn" href="{{route('juego')}}">¡Vamos!</a>
                 </div>
             </div>
             </div>
         </div>
 
         </section><!-- /Call To Action Section -->
-
-        <!-- Portfolio Section -->
-        <section id="portfolio" class="portfolio section">
-
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Portfolio</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-        </div><!-- End Section Title -->
-
-        <div class="container">
-
-            <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-
-            <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-                <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-app">App</li>
-                <li data-filter=".filter-product">Card</li>
-                <li data-filter=".filter-branding">Web</li>
-            </ul><!-- End Portfolio Filters -->
-
-            <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>App 1</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>Product 1</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>Branding 1</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-4.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>App 2</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-4.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>Product 2</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>Branding 2</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>App 3</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>Product 3</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-                <img src="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                    <h4>Branding 3</h4>
-                    <p>Lorem ipsum, dolor sit</p>
-                    <a href="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                    <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-                </div><!-- End Portfolio Item -->
-
-            </div><!-- End Portfolio Container -->
-
-            </div>
-
-        </div>
-
-        </section><!-- /Portfolio Section -->
 
         <!-- Team Section -->
         <section id="team" class="team section light-background">
@@ -588,7 +246,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="team-member">
                 <div class="member-img">
-                    <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                    <img src="{{asset("assets/img/team/1.png")}}" class="img-fluid" alt="">
                     <!--div class="social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -606,7 +264,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="team-member">
                 <div class="member-img">
-                    <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                    <img src="{{asset("assets/img/team/2.png")}}" class="img-fluid" alt="">
                     <!--div class="social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -624,7 +282,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="team-member">
                 <div class="member-img">
-                    <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                    <img src="{{asset("assets/img/team/3.png")}}" class="img-fluid" alt="">
                     <!--div class="social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -642,7 +300,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                 <div class="team-member">
                 <div class="member-img">
-                    <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                    <img src="{{asset("assets/img/team/4.png")}}" class="img-fluid" alt="">
                     <!--div class="social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -662,88 +320,6 @@
         </div>
 
         </section><!-- /Team Section -->
-
-        <!-- Faq Section -->
-        <!--section id="faq" class="faq section light-background">
-
-
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Frequently Asked Questions</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-        </div>
-
-        <div class="container">
-
-            <div class="row justify-content-center">
-
-            <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
-
-                <div class="faq-container">
-
-                <div class="faq-item faq-active">
-                    <h3>Non consectetur a erat nam at lectus urna duis?</h3>
-                    <div class="faq-content">
-                    <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
-                    </div>
-                    <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-
-                <div class="faq-item">
-                    <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
-                    <div class="faq-content">
-                    <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                    </div>
-                    <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-
-                <div class="faq-item">
-                    <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
-                    <div class="faq-content">
-                    <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
-                    </div>
-                    <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-
-                <div class="faq-item">
-                    <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
-                    <div class="faq-content">
-                    <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                    </div>
-                    <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-
-                <div class="faq-item">
-                    <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
-                    <div class="faq-content">
-                    <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
-                    </div>
-                    <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-
-                <div class="faq-item">
-                    <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
-                    <div class="faq-content">
-                    <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
-                    </div>
-                    <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-
-                </div>
-
-            </div>
-
-            </div>
-
-        </div>
-
-        </section--><!-- /Faq Section -->
-
-        <!-- Contact Section -->
-        <!--section id="contact" class="contact section">
-
-
-
-        </section--><!-- /Contact Section -->
 
     </main>
     

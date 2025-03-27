@@ -5,7 +5,7 @@
         <div class="container footer-top">
         <div class="row gy-4">
             <div class="col-lg-5 col-md-12 footer-about">
-            <a href="{{route('Inicio')}}" class="logo d-flex align-items-center">
+            <a href="{{route('inicio')}}" class="logo d-flex align-items-center">
                 <img src="{{ asset('assets/img/logo.png')}}" alt="Uteg Logo">
             </a>
             <p>Página web destinada a promover el conocimiento sobre los disruptores endocrinos | Infórmate sobre su impacto en la salud y gracias por acompañarnos en esta misión de concienciación médica.</p>
@@ -14,22 +14,22 @@
             <div class="col-lg-2 col-6 footer-links">
             <h4>Menú</h4>
             <ul>
-                <li><a href="#">Inicio</a></li>
+                <li><a href="{{route('inicio')}}">Inicio</a></li>
                 <li><a href="#">Disruptores endocrinos</a></li>
-                <li><a href="#">Juego</a></li>
-                <li><a href="#">Bibliografías</a></li>
-                <li><a href="#">Integrantes</a></li>
+                <li><a href="{{route('juego-inicio')}}">Juego</a></li>
+                <li><a href="{{route('bibliografias')}}">Bibliografías</a></li>
+                <li><a href="{{route('integrantes')}}">Integrantes</a></li>
             </ul>
             </div>
 
             <div class="col-lg-2 col-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Disruptores endocrinos</h4>
             <ul>
-                <li><a href="#">Web Design</a></li>
-                <li><a href="#">Web Development</a></li>
-                <li><a href="#">Product Management</a></li>
-                <li><a href="#">Marketing</a></li>
-                <li><a href="#">Graphic Design</a></li>
+                <li><a href="#">Tema 1</a></li>
+                <li><a href="#">Tema 2</a></li>
+                <li><a href="#">Tema 3</a></li>
+                <li><a href="#">Tema 4</a></li>
+                <li><a href="#">Tema 5</a></li>
             </ul>
             </div>
             
