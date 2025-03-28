@@ -33,3 +33,23 @@ Route::get('/inicio#about', function () {
 Route::get('/inicio#disruptores', function () {
     return view('inicio');
 })->name('disruptores');
+
+Route::get('/definiciones', function () {
+    return view('definiciones');
+})->name('definiciones');
+
+Route::get('/efectos', function () {
+    return view('efectosdisruptores');
+})->name('efectos');
+
+Route::get('/enfermedades', function () {
+    return view('enfermedades');
+})->name('enfermedades');
+
+Route::get('/tipos', function () {
+    return view('tiposdisruptores');
+})->name('tipos');
+
+Route::get('/ejemplo', function () {
+    return view('ejemplo');
+})->name('ejemplo');

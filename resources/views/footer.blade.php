@@ -25,11 +25,10 @@
             <div class="col-lg-2 col-6 footer-links">
             <h4>Disruptores endocrinos</h4>
             <ul>
-                <li><a href="#">Tema 1</a></li>
-                <li><a href="#">Tema 2</a></li>
-                <li><a href="#">Tema 3</a></li>
-                <li><a href="#">Tema 4</a></li>
-                <li><a href="#">Tema 5</a></li>
+                <li><a href="{{route("definiciones")}}">¿Qué son los disruptores endocrinos?</a></li>
+                <li><a href="{{route("tipos")}}">Tipos de disruptores endocrinos: naturales y artificiales</a></li>
+                <li><a href="{{route("efectos")}}">Efectos bioquímicos de los disruptores endocrinos</a></li>
+                <li><a href="{{route("enfermedades")}}">Principales enfermedades o alteraciones por disruptores endocrinos artificiales (DEA)</a></li>
             </ul>
             </div>
             

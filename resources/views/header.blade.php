@@ -10,13 +10,12 @@
         <nav id="navmenu" class="navmenu">
             <ul>
             <li><a href="{{route('inicio')}}">Inicio<br></a></li>
-            <!--li><a href="#info">About</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#portfolio">Portfolio</a></li-->
             <li class="dropdown"><a href="{{route("disruptores")}}"><span>Disruptores endocrinos</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                 <ul>
-                <li><a href="{{route("disruptores")}}">¿Que son los disruptores endocrinos?</a></li>
-                <li><a href="{{route("disruptores")}}">¿Qué es el metabolismo humano?</a></li>
+                <li><a href="{{route('definiciones')}}">¿Qué son los disruptores endocrinos?</a></li>
+                <li><a href="{{route('tipos')}}">Tipos de disruptores endocrinos: naturales y artificiales</a></li>
+                <li><a href="{{route('efectos')}}">Efectos bioquímicos de los disruptores endocrinos</a></li>
+                <li><a href="{{route('enfermedades')}}">Principales enfermedades o alteraciones por disruptores endocrinos artificiales (DEA)</a></li>
                 </ul>
             </li>
             <li><a href="{{route('juego-inicio')}}">Juego</a></li>
