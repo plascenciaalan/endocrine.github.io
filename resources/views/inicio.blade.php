@@ -89,7 +89,7 @@
                     <a href="{{route("definiciones")}}" class="stretched-link">
                         <h3>¿Qué son los disruptores endocrinos?</h3>
                     </a>
-                    <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+                    <!--p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p-->
                     </div>
                 </div>
 
@@ -104,7 +104,7 @@
                     <a href="{{route("tipos")}}" class="stretched-link">
                         <h3>Tipos de disruptores endocrinos: naturales y artificiales</h3>
                     </a>
-                    <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+                    <!--p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p-->
                     </div>
                 </div>
 
@@ -119,7 +119,7 @@
                     <a href="{{route("efectos")}}" class="stretched-link">
                         <h3>Efectos bioquímicos de los disruptores endocrinos</h3>
                     </a>
-                    <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+                    <!--p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p-->
                     </div>
                 </div>
 
@@ -134,7 +134,7 @@
                     <a href="{{route("enfermedades")}}" class="stretched-link">
                         <h3>Principales enfermedades o alteraciones por disruptores endocrinos artificiales (DEA)</h3>
                     </a>
-                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+                    <!--p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p-->
                     <a href="{{route("enfermedades")}}" class="stretched-link"></a>
                     </div>
                 </div>

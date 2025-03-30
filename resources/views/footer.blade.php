@@ -44,7 +44,7 @@
         </div>
 
         <div class="container copyright text-center mt-4">
-        <p>© 2025 - <span>Copyright</span> <strong class="px-1 sitename">Uteg Centro Universitario</strong> <span>Todos los derechos reservados</span></p>
+        <p>© 2025 - <span>Copyright</span> <strong class="px-1 sitename">CENTRO UNIVERSITARIO UTEG</strong> <span>Todos los derechos reservados</span></p>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you've purchased the pro version. -->
