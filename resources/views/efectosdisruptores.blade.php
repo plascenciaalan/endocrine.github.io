@@ -39,8 +39,12 @@
                             <li><i class="bi bi-check2-all"></i> <span>Homeostasis: Desequilibrios en pH, concentración de iones, etc.</span></li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-                        <img src="{{asset("assets/img/general/muestra.jpg")}}" class="img-fluid" alt="">
+                    <div class="col-lg-2" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                          <img src="{{asset("assets/img/info/efectos bioquimicos.jpg")}}" class="img-fluid" alt="">
+                          <a href="{{asset("assets/img/info/efectos bioquimicos.jpg")}}" class="glightbox pulsating-play-btn"></a>
+                        </div>
+                        <div><span class="reference">Education, I. S. (2023, 29 enero). Qué es la Bioquímica y dónde se aplica. El Blog de IMF. https://blogs.imf-formacion.com/blog/corporativo/salud-pharma/que-es-la-bioquimica-y-donde-se-aplica/ </span></div>
                     </div>
                 </div>
             </div>
@@ -65,9 +69,9 @@
                             <li><i class="bi bi-check2-all"></i> <span>Consecuencia: Desregulación de la adipogénesis (aumento de adipocitos) y resistencia a la insulina.</span></li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                    <!--div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
                         <img src="{{asset("assets/img/general/muestra.jpg")}}" class="img-fluid" alt="">
-                    </div>
+                    </div-->
                 </div>
 
                 <div class="space"></div>
@@ -81,9 +85,9 @@
                             <li><i class="bi bi-check2-all"></i> <span>Efecto: Disminución del metabolismo basal y acumulación de lípidos.</span></li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                    <!--div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
                         <img src="{{asset("assets/img/general/muestra.jpg")}}" class="img-fluid" alt="">
-                    </div>
+                    </div-->
                 </div>
 
                 <div class="space"></div>
@@ -97,9 +101,9 @@
                             <li><i class="bi bi-check2-all"></i> <span>Resultado: Hiperglucemia y riesgo de diabetes tipo 2.</span></li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                    <!--div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
                         <img src="{{asset("assets/img/general/muestra.jpg")}}" class="img-fluid" alt="">
-                    </div>
+                    </div-->
                 </div>
 
                 <div class="space"></div>
@@ -113,9 +117,9 @@
                             <li><i class="bi bi-check2-all"></i> <span>Impacto: Fatiga crónica y acumulación de ácidos grasos libres.</span></li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                    <!--div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
                         <img src="{{asset("assets/img/general/muestra.jpg")}}" class="img-fluid" alt="">
-                    </div>
+                    </div-->
                 </div>
 
                 <div class="space"></div>
@@ -128,9 +132,9 @@
                             <li><i class="bi bi-check2-all"></i> <span>Triclosán (antiséptico) altera la microbiota, afectando la fermentación de ácidos grasos de cadena corta (SCFAs), cruciales para la homeostasis energética.</span></li>
                         </ul>
                     </div>
-                    <div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                   <!--div class="col-lg-2 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
                         <img src="{{asset("assets/img/general/muestra.jpg")}}" class="img-fluid" alt="">
-                    </div>
+                    </div-->
                 </div>
             </div>
         </section>

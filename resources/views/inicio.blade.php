@@ -19,7 +19,7 @@
         <div class="container">
             <div class="row justify-content-center" data-aos="zoom-out">
             <div class="col-xl-7 col-lg-9 text-center">
-                <h1>Disruptores endocrinos</h1>
+                <h1>Efectos bioquímicos de los disruptores endocrinos artificiales en el metabolismo humano</h1>
                 <p>Página web destinada para promover el conocimiento sobre los disruptores endocrinos.</p>
             </div>
             </div>
@@ -35,8 +35,8 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <h2>Disruptores endocrinos<br></h2>
-            <p>Efectos bioquímicos de los disruptores endocrinos artificiales en el metabolismo humano</p>
+            <h2>Efectos bioquímicos de los disruptores endocrinos artificiales en el metabolismo humano<br></h2>
+            <!--p>Efectos bioquímicos de los disruptores endocrinos artificiales en el metabolismo humano</p-->
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -53,7 +53,7 @@
                     </p>
                     <ul>
                     <li><i class="bi bi-check2-circle"></i> <span>Interferencia con receptores hormonales y su impacto en el metabolismo.</span></li>
-                    <li><i class="bi bi-check2-circle"></i> <span>DAlteración de la función tiroidea y acumulación de lípidos.</span></li>
+                    <li><i class="bi bi-check2-circle"></i> <span>Alteración de la función tiroidea y acumulación de lípidos.</span></li>
                     <li><i class="bi bi-check2-circle"></i> <span>Efectos en la señalización de insulina y riesgo de diabetes.</span></li>
                     </ul>
 

@@ -74,6 +74,14 @@
                         </ul>
                     </div>
                 </div>
+                <div class="space"></div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="{{asset("assets/img/info/obesidad.jpg")}}" class="img-fluid" alt="">
+                        <a href="{{asset("assets/img/info/obesidad.jpg")}}" class="glightbox pulsating-play-btn"></a>
+                    </div>
+                    <div><span class="reference">Prado, C. (2024, 6 marzo). Obesidad: causas, consecuencias y estrategias de prevención. - Clinica Premium. Clinica Premium. https://www.clinicapremium.com/obesidad-causas-consecuencias-y-estrategias-de-prevencion/ </span></div>
+                </div>
             </div>
 
             <div class="space"></div>
@@ -120,6 +128,14 @@
                             <li><i class="bi bi-check2-all"></i> <span>Prevención: Evitar plásticos PVC (ftalatos) y pesticidas.</span></li>
                         </ul>
                     </div>
+                </div>
+                <div class="space"></div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="{{asset("assets/img/info/Diabetes tipo 2.jpg")}}" class="img-fluid" alt="">
+                        <a href="{{asset("assets/img/info/Diabetes tipo 2.jpg")}}" class="glightbox pulsating-play-btn"></a>
+                    </div>
+                    <div><span class="reference">National Library of Medicine. (s. f.). Diabetes tipo 2. https://medlineplus.gov/spanish/diabetestype2.html </span></div>
                 </div>
             </div>
 
@@ -168,6 +184,14 @@
                         </ul>
                     </div>
                 </div>
+                <div class="space"></div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="{{asset("assets/img/info/hipotiroidismo.png")}}" class="img-fluid" alt="">
+                        <a href="{{asset("assets/img/info/hipotiroidismo.png")}}" class="glightbox pulsating-play-btn"></a>
+                    </div>
+                    <div><span class="reference">Clinic, V. (2020, 24 enero). Hipotiroidismo: Cómo debes cambiar tu dieta y tus hábitos. Vertebral Clinic. https://vertebralclinic.es/2020/01/24/hipotiroidismo-como-debes-cambiar-tu-dieta-y-tus-habitos/ </span></div>
+                </div>
             </div>
 
             <div class="space"></div>
@@ -215,6 +239,14 @@
                         </ul>
                     </div>
                 </div>
+                <div class="space"></div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="{{asset("assets/img/info/TDAH.jpg")}}" class="img-fluid" alt="">
+                        <a href="{{asset("assets/img/info/TDAH.jpg")}}" class="glightbox pulsating-play-btn"></a>
+                    </div>
+                    <div><span class="reference">Bravo, S. M. (2023, 14 junio). 10 pautas para gestionar el TDAH en niños. Centro Médico D-Médical. https://d-medical.com/2023/06/10-pautas-para-gestionar-el-tdah-en-ninos/ </span></div>
+                </div>
             </div>
 
             <div class="space"></div>
@@ -260,6 +292,14 @@
                             <li><i class="bi bi-check2-all"></i> <span>Prevención: Filtros de agua (eliminar atrazina).</span></li>
                         </ul>
                     </div>
+                </div>
+                <div class="space"></div>
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                        <img src="{{asset("assets/img/info/CA MAMA.jpg")}}" class="img-fluid" alt="">
+                        <a href="{{asset("assets/img/info/CA MAMA.jpg")}}" class="glightbox pulsating-play-btn"></a>
+                    </div>
+                    <div><span class="reference">Prevención y diagnóstico precoz del Cáncer de Mama. (s. f.). Quirónsalud. https://www.quironsalud.com/es/comunicacion/contenidos-salud/prevencion-diagnostico-precoz-cancer-mama-deteccion-mamogra </span></div>
                 </div>
             </div>
 
