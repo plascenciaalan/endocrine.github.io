@@ -27,13 +27,45 @@
     
                 <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
     
-                <div class="faq-container">
-                    <div class="faq-item faq-content">
-                        ¡Prepárate para una aventura épica! Sumérgete en un juego dinámico que no solo te hará vibrar de emoción, sino que también despertará tu mente y te enseñará cosas nuevas en cada paso. ¡Olvídate del aburrimiento y lánzate a aprender mientras te diviertes como nunca! ¿Estás listo para el desafío? ¡Vamos, el juego te espera!
+                    <div class="faq-container">
+                        <div class="faq-item faq-content">
+                            ¡Prepárate para una aventura épica! Sumérgete en un juego dinámico que no solo te hará vibrar de emoción, sino que también despertará tu mente y te enseñará cosas nuevas en cada paso. ¡Olvídate del aburrimiento y lánzate a aprender mientras te diviertes como nunca! ¿Estás listo para el desafío? ¡Vamos, el juego te espera!
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="space"></div>
+
+                <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+                    <div class="faq-container">
+                        <div class="faq-item faq-content">
+                            <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                                <a href="https://www.educaplay.com/learning-resources/23320217-efectos_bioquimicos_de_los_disruptores_endocrinos.html" class="glightbox">
+                                    <img src="{{asset("assets/img/general/preguntas.png")}}" class="img-fluid" alt="">
+                                    <div class="space"></div>
+                                    <p class="section-title">Preguntas</p>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-    
-                </div><!-- End Faq Column-->
+
+                <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+                    <div class="faq-container">
+                        <div class="faq-item faq-content">
+                            <div class="col-lg-12 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+                                <a href="https://es.educaplay.com/recursos-educativos/23313058-desafio_sobre_disruptores_endocrinos.html" class="glightbox">
+                                    <img src="{{asset("assets/img/general/game.png")}}" class="img-fluid" alt="">
+                                    <div class="space"></div>
+                                    <p class="section-title">Juego</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
     
             </div>
     
